@@ -1,2 +1,12 @@
-# engineering_project
-  This repository contains the work we did in the Engineering Project and the data used in these studies.
+# Finding The Optimal Locations For New Stores For A Supermarket Chain With The Goal Of Aggressive Growth In The Retail Sector
+
+- Umut Kaya
+- Berkay Burak Saçmacı
+- Selim Gökay Başer
+- Kerim Katırcıoğlu
+
+Supervisor : Prof. Dr. ÇİĞDEM ALABAŞ USLU
+
+**The codes used in the project, datasets, generated graphs, and computed values are available here.**
+
+
